@@ -1,4 +1,7 @@
 # ASRIN PROJECT
+[![Release](https://img.shields.io/github/release/amirsayonara/asrin-project)](https://github.com/amirsayonara/asrin-project/releases/latest)
+[![License](https://img.shields.io/github/license/amirsayonara/asrin-project)](LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/amir_sayonara)](https://twitter.com/amir_sayonara)
 > Membuat permainan interaktif tentang ciri-ciri bangun ruang
 
 ```
